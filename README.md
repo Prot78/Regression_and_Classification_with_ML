@@ -51,7 +51,11 @@ And here are the types of Classification algorithms typically used in Machine Le
 •	Support Vector Machines: This algorithm employs support vector classifiers with an exciting change, making it ideal for evaluating non-linear decision boundaries. This process is possible by enlarging feature variable space by employing special functions known as kernels.
 
 
-#### Additional reading:
+
+
+
+
+### Additional reading:
 #### Decision Trees
 
 A decision tree is a graphical representation of specific decision situations that are used when complex branching occurs in a structured decision process. It breaks down a data set into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node has two or more branches and a leaf node represents a classification or decision. The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data.
