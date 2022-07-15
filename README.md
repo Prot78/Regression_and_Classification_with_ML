@@ -6,16 +6,25 @@
 https://www.simplilearn.com/regression-vs-classification-in-machine-learning-article
 
 Regression in Machine Learning Explained
+
 Regression finds correlations between dependent and independent variables. Therefore, regression algorithms help predict continuous variables such as house prices, market trends, weather patterns, oil and gas prices (a critical task these days!), etc.
 The Regression algorithm’s task is finding the mapping function so we can map the input variable of “x” to the continuous output variable of “y.”
 Classification in Machine Learning Explained
-On the other hand, Classification is an algorithm that finds functions that help divide the dataset into classes based on various parameters. When using a Classification algorithm, a computer program gets taught on the training dataset and categorizes the data into various categories depending on what it learned.
+On the other hand, Classification is an algorithm that finds functions that help divide the dataset into classes based on various parameters. When using a 
+
+Classification algorithm, a computer program gets taught on the training dataset and categorizes the data into various categories depending on what it learned.
+
 Classification algorithms find the mapping function to map the “x” input to “y” discrete output. The algorithms estimate discrete values (in other words, binary values such as 0 and 1, yes and no, true or false, based on a particular set of independent variables. To put it another, more straightforward way, classification algorithms predict an event occurrence probability by fitting data to a logit function.
 Classification algorithms are used for things like email and spam classification, predicting the willingness of bank customers to pay their loans, and identifying cancer tumor cells.
+
 Types of Regression
+
 Here are the types of Regression algorithms commonly found in the Machine Learning field:
+
 •	Decision Tree Regression: The primary purpose of this regression is to divide the dataset into smaller subsets. These subsets are created to plot the value of any data point connecting to the problem statement.
+
 •	Principal Components Regression: This regression technique is widely used. There are many independent variables, or multicollinearity exists in your data.
+
 •	Polynomial Regression: This type fits a non-linear equation by using the polynomial functions of an independent variable.
 •	Random Forest Regression: Random Forest regression is heavily used in Machine Learning. It uses multiple decision trees to predict the output. Random data points are chosen from the given dataset and used to build a decision tree via this algorithm.
 •	Simple Linear Regression: This type is the least complicated form of regression, where the dependent variable is continuous.
