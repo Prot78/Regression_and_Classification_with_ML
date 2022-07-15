@@ -4,6 +4,7 @@
 ### Literature suggested:
 #### Regression vs. Classification in Machine Learning for Beginners
 https://www.simplilearn.com/regression-vs-classification-in-machine-learning-article
+
 Regression in Machine Learning Explained
 Regression finds correlations between dependent and independent variables. Therefore, regression algorithms help predict continuous variables such as house prices, market trends, weather patterns, oil and gas prices (a critical task these days!), etc.
 The Regression algorithm’s task is finding the mapping function so we can map the input variable of “x” to the continuous output variable of “y.”
