@@ -35,37 +35,51 @@ Here are the types of Regression algorithms commonly found in the Machine Learni
 •	Support Vector Regression: This regression type solves both linear and non-linear models. It uses non-linear kernel functions, like polynomials, to find an optimal solution for non-linear models.
 
 #### Types of Classification
+
 And here are the types of Classification algorithms typically used in Machine Learning:
+
 •	Decision Tree Classification: This type divides a dataset into segments based on particular feature variables. The divisions’ threshold values are typically the mean or mode of the feature variable in question if they happen to be numerical.
+
 •	K-Nearest Neighbors: This Classification type identifies the K nearest neighbors to a given observation point. It then uses K points to evaluate the proportions of each type of target variable and predicts the target variable that has the highest ratio.
+
 •	Logistic Regression: This classification type isn't complex so it can be easily adopted with minimal training. It predicts the probability of Y being associated with the X input variable.
+
 •	Naïve Bayes: This classifier is one of the most effective yet simplest algorithms. It’s based on Bayes’ theorem, which describes how event probability is evaluated based on the previous knowledge of conditions that could be related to the event.
+
 •	Random Forest Classification: Random forest processes many decision trees, each one predicting a value for target variable probability. You then arrive at the final output by averaging the probabilities. 
+
 •	Support Vector Machines: This algorithm employs support vector classifiers with an exciting change, making it ideal for evaluating non-linear decision boundaries. This process is possible by enlarging feature variable space by employing special functions known as kernels.
 
 
-Additional reading:
-Decision Trees
+#### Additional reading:
+#### Decision Trees
+
 A decision tree is a graphical representation of specific decision situations that are used when complex branching occurs in a structured decision process. It breaks down a data set into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node has two or more branches and a leaf node represents a classification or decision. The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data.
 
-Logistic Regression
+#### Logistic Regression
+
 https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
+
 Logistic regression is a classification algorithm used to assign observations to a discrete set of classes.
+
 What are the types of logistic regression
 1.	Binary (eg. Tumor Malignant or Benign)
 2.	Multi-linear functions failsClass (eg. Cats, dogs or Sheep's)
 
-Linear Regression and Polynomial Regression
+#### Linear Regression and Polynomial Regression
+
 https://medium.com/p/c12a072bedf0
 https://medium.com/p/d4d5bf9f0f56
 https://towardsdatascience.com/introduction-to-linear-regression-and-polynomial-regression-f8adc96f31cb
 
-Support Vector Machine (SVM)
+#### Support Vector Machine (SVM)
+
 https://medium.com/towards-artificial-intelligence/support-vector-machine-svm-introduction-machine-learning-8c56b7da63f1
 
 Logistic Regression (Predictive Learning Model) :
 Logistic regression is a technique in statistical analysis that attempts to predict a data value based on prior observation. The outcome is measured with a dichotomous variable (in which there are only two possible outcomes). The goal of logistic regression is to find the best fitting model to describe the relationship between the dichotomous characteristic of interest (dependent variable = response or outcome variable) and a set of independent (predictor or explanatory) variables.
 
-K Nearest Neighbor(KNN)
+#### K Nearest Neighbor(KNN)
+
 https://towardsdatascience.com/a-simple-introduction-to-k-nearest-neighbors-algorithm-b3519ed98e
 The k-nearest-neighbors algorithm is a classification algorithm, and it is supervised: it takes a bunch of labelled points and uses them to learn how to label other points. To label a new point, it looks at the labelled points closest to that new point (those are its nearest neighbors), and has those neighbors vote, so whichever label the most of the neighbors have is the label for the new point (the “k” is the number of neighbors it checks).
